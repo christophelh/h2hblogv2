@@ -14,8 +14,6 @@ Régulièrement, j'aime regarder le site Flippa pour jeter un oeil sur les sites
 
 ![SEMRUSH Urgence Dentaire](/assets/semrush1.png "SEMRUSH Urgence Dentaire")
 
-
-
 **Stratégie:** Utiliser un mélange entre les basics du SEO (Link Building et Génération de contenu) et les des techniques un peu plus geek 👨🏽‍💻 . 
 
-Un regard sur la competition sur le marché de l'urgence dentaire en France.
+Un regard sur la **competition** sur le marché de l'urgence dentaire en France et je découvre deux sites qui sortent du lot dentiste.fr (Great domain name) et dentego.fr.
