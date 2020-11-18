@@ -12,6 +12,10 @@ Petit rappel de ce que **c'est la SEO**: Optimisation pour les moteurs de recher
 
 Régulièrement, j'aime regarder le site Flippa pour jeter un oeil sur les sites en ventes.  Je tombe sur un blog sur les **urgences dentaires** au US. Le prix de vente est de $50 000 avec un traffic mensuel de 1M. Je regarde sur SEMRush pour le marché France, je découvre un gros traffic et une difficulté pour rentré dans le top 10 de Google assez moyenne ( <60%). Bingo, nous décidons de lancer notre concept d'annuaire. 
 
+![SEMRUSH Urgence Dentaire](/assets/semrush1.png "SEMRUSH Urgence Dentaire")
+
+
+
 **Stratégie:** Utiliser un mélange entre les basics du SEO (Link Building et Génération de contenu) et les des techniques un peu plus geek 👨🏽‍💻 . 
 
 Un regard sur la competition sur le marché de l'urgence dentaire en France.
