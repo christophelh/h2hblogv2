@@ -16,4 +16,12 @@ Régulièrement, j'aime regarder le site Flippa pour jeter un oeil sur les sites
 
 **Stratégie:** Utiliser un mélange entre les basics du SEO (Link Building et Génération de contenu) et les des techniques un peu plus geek 👨🏽‍💻 . 
 
-Un regard sur la **competition** sur le marché de l'urgence dentaire en France et je découvre deux sites qui sortent du lot dentiste.fr (Great domain name) et dentego.fr.
+Un regard sur la **competition** sur le marché de l'urgence dentaire en France et je découvre deux sites qui sortent du lot dentiste.fr (Great domain name) et dentego.fr. 
+
+En jetant un regard sur dentiste.fr je realise qu'il on lancé leur business en juin 2019 et qu'en Mars 2020, il avoisine les 20k visiteurs par mois. Voila notre cible 🔥
+
+![](/assets/Screenshot 2020-11-18 at 23.27.50.png)
+
+Maintenant que nous avons défini notre stratégie et nous avons identifier ce qui est possible. Il nous reste plus qu'a définir notre tactique. \
+\
+Rendez-vous dans un prochain post.
