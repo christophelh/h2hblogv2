@@ -1,9 +1,9 @@
 {
-  "title": "H2H - Web Studio Made in Paris 🚀",
-  "siteUrl": "http://blog.h2h.dev",
+  "title": "Delog",
+  "siteUrl": "https://delog-w3layouts.netlify.com/",
   "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
   "home": {
-    "title": "PRENEZ LE CONTRÔLE DE VOTRE STRATÉGIE DIGITALE.",
-    "description": "H2H est un web studio spécialisé dans la création d'applications web/mobile et les stratégies digitales. Notre objectif est d’allier créativité et stratégie marketing, le tout sur mesure, facteur clé de la réussite des projets de nos clients."
+    "title": "Hi! I'm Delog",
+    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
   }
 }
