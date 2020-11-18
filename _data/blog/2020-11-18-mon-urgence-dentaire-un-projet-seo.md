@@ -3,7 +3,7 @@ template: BlogPost
 path: /monurgencedentaire_seo_project
 date: 2020-11-18T20:41:13.603Z
 title: 'Mon Urgence Dentaire: Un Projet SEO. '
-thumbnail: /assets/Screenshot 2020-11-17 at 22.36.47.png
+thumbnail: /assets/monurgencedentaire.jpg
 ---
 **Objectif:** Lancer un annuaire www.monurgencedentaire.com pour les [urgences dentaires](www.monurgencedentaire.com) afin d'arriver à 20 000 visites par mois en 8 Mois en partant de 0 😎.
 
