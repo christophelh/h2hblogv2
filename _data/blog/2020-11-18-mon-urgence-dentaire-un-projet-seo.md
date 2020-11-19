@@ -24,6 +24,6 @@ En jetant un regard sur dentiste.fr je realise qu'il on lancé leur business en 
 
 ![](/assets/Screenshot 2020-11-18 at 23.27.50.png)
 
-Maintenant que nous avons défini notre stratégie et nous avons identifier ce qui est possible. Il nous reste plus qu'a définir nos tactiques d'attaque de ce projet. \
+Maintenant que nous avons défini notre stratégie et nous avons identifier ce qui est possible. Il nous reste plus qu'a mettre en place notre arsenal de tactiques. \
 \
 Rendez-vous dans un prochain post pour en savoir plus.
