@@ -11,6 +11,11 @@ Sa demande, je cherche une agence qui peux m'aider à **tripler mes revenus** da
 
 **Notre Objectif:** Trouver des solution pour **multiplier le traffic par trois** en quelques mois grace à la SEO. 
 
+Un audit pour ce type de projet consiste en: 
+
+* Comprendre d'ou vient le traffic existant ( organique, payant , Facebook , Instagram )
+* Comparer le site internet avec la competition
+
 **1ère observation:**  Le blog a **perdu la moitié de son traffic organique** venant de **Google** en seulement 1 mois.  Cette chute vertigineuse est due à une mise a jour de l'algorithme en Mai 2020.  
 
 La liste des industries qui ont beaucoup gagné/perdu avec cette mise a jour. Malheureusement pour ce client, la catégorie **"Food and Drink"** se trouve parmi les plus impactés
