@@ -11,8 +11,10 @@ Sa demande, je cherche une agence qui peux m'aider à **tripler mes revenus** da
 
 Je me retrousse les manches et je commence à regarder son historique de traffic sur Google Analytics.
 
-**1ère observation:**  Le blog a **perdu la moitié de son traffic organique** venant de **Google** en seulement 1 mois.  Cette chute vertigineuse est due à une mise a jour de l algorithme en Avril 2020. 
+**1ère observation:**  Le blog a **perdu la moitié de son traffic organique** venant de **Google** en seulement 1 mois.  Cette chute vertigineuse est due à une mise a jour de l algorithme en May 2020.  Pendant la crise du Covid-19 , Google decida de mettre plus en avant les sites de News pour désavantagé les autres. La liste des industries qui ont beaucoup gagné/perdu avec cette mise a jour. Malheureusement pour ce client, la catégorie **"Food and Drink"** se trouve parmi les plus impactés
+
+![](/assets/Screenshot 2020-11-19 at 17.37.30.png)
 
 Conséquence, moins de 100 000 organiques visites en moins et la perte de 1521 mot clés dans le top 3 de Google 😓
 
-![](/assets/Screenshot 2020-11-19 at 17.21.50.png)
+![](/assets/Screenshot 2020-11-19 at 17.21.50.png "Traffic avec SEMRUSH")
