@@ -17,6 +17,6 @@ La liste des industries qui ont beaucoup gagné/perdu avec cette mise a jour. Ma
 
 ![](/assets/Screenshot 2020-11-19 at 17.37.30.png)
 
-Conséquence, moins de 100 000 organiques visites en moins et la perte de 1521 mot clés dans le top 3 de Google 😓
+Conséquence, moins de 100 000 visites organiques en moins et la perte de 1521 mot clés dans le top 10 de Google 😓
 
 ![](/assets/Screenshot 2020-11-19 at 17.21.50.png "Traffic avec SEMRUSH")
