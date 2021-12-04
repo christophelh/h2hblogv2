@@ -6,7 +6,7 @@ title: 'Mon Urgence Dentaire: Un Projet SEO. '
 metaDescription: Strategie SEO pour monurgencedentaire.com
 thumbnail: /assets/monurgencedentaire.jpg
 ---
-**Objectif:** Lancer un annuaire www.monurgencedentaire.com qui référence les dentistes spécialisés dans les urgences dentaires. Notre objectif est d'arriver à 20.000 visites par mois en 8 Mois, en partant de 0 😎.
+**Objectif:** Lancer un annuaire [www.monurgencedentaire.com](https://www.monurgencedentaire.com) qui référence les dentistes spécialisés dans les urgences dentaires. Notre objectif est d'arriver à 20.000 visites par mois en 8 Mois, en partant de 0 😎.
 
 Petit rappel de ce que **c'est la SEO**: Optimisation pour les moteurs de recherche. L'ensemble des techniques mise en oeuvre pour améliorer la position d'un site internet. 
 
@@ -24,6 +24,6 @@ En jetant un regard sur dentiste.fr je realise qu'il on lancé leur business en 
 
 ![](/assets/Screenshot 2020-11-18 at 23.27.50.png)
 
-Maintenant que nous avons défini notre stratégie et nous avons identifier ce qui est possible. Il nous reste plus qu'a mettre en place notre arsenal de tactiques. \
+Maintenant que nous avons défini notre stratégie et nous avons identifier ce qui est possible. Il nous reste plus qu'a mettre en place notre arsenal de tactiques.  Et bien sur en apprendre un maximum sur le monde de l'[urgence dentaire à Paris](https://www.monurgencedentaire.com/recherche/dentiste/paris/) :-). \
 \
 Rendez-vous dans un prochain post pour en savoir plus.
